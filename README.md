@@ -12,6 +12,9 @@ This repository contains Terraform configuration files to create an EKS cluster 
 ## Getting Started
 
 1. Clone this repository to your local machine.
+```
+git clone https://github.com/ron8cr/my_eks_cluster.git
+```
 
 2. Navigate to the root module directory:
 
